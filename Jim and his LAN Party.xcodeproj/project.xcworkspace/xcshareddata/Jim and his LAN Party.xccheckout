@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09DA9C05-1F4B-44C9-8B30-4A4EB10D99B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Jim and his LAN Party</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4D24ED4A2DED1267DA0650CCECC5C37E587A1669</key>
+		<string>https://github.com/yeyejyf/Jim-and-his-LAN-Party.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Jim and his LAN Party.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4D24ED4A2DED1267DA0650CCECC5C37E587A1669</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yeyejyf/Jim-and-his-LAN-Party.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4D24ED4A2DED1267DA0650CCECC5C37E587A1669</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4D24ED4A2DED1267DA0650CCECC5C37E587A1669</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Jim%20and%20his%20LAN%20Party</string>
+		</dict>
+	</array>
+</dict>
+</plist>
