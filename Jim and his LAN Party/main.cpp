@@ -10,6 +10,7 @@
 #include <vector>
 #include <unordered_map>
 #include <set>
+#include <algorithm>
 using namespace std;
 
 class Game;
@@ -80,6 +81,7 @@ public:
     void run(MultiGroups &groups, long count, long p1, long p2){
         long n1 = groups.getGroupNo(p1);
         long n2 = groups.getGroupNo(p2);
+        vector<long> affectedPlayer;
         if (n1 == -1 && n2 == -1) {
             long tmp = groups.newGroup();
             groups.addToGroup(p1, tmp);
