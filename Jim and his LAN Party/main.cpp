@@ -5,6 +5,8 @@
 //  Created by Yunfan Jin on 3/15/15.
 //  Copyright (c) 2015 yunfan.jin. All rights reserved.
 //
+// For question on https://www.hackerrank.com/challenges/jim-and-his-lan-party
+//
 
 #include <iostream>
 #include <vector>
