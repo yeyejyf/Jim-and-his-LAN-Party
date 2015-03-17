@@ -137,10 +137,10 @@ int main(int argc, const char * argv[]) {
     long N, M, Q, tmp1, tmp2;
     cin >> N >> M >> Q;
     MultiGroups groups(N);
-    vector<long> list;
+    vector<long> list(N,-1);
     for (long i=0; i<N; i++) {
         cin >> tmp1;
-        list.push_back(tmp1-1);
+        list[i] = tmp1-1;
     }
     Game game(N, M, list);
     for (long i=0; i<Q; i++) {
