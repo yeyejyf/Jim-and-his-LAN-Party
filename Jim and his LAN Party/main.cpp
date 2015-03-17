@@ -79,6 +79,9 @@ public:
     }
     
     bool checkTogether(const MultiGroups &groups, long game_id){
+        if (output[game_id] != -1) {
+            return false;
+        }
         auto iter = game[game_id].begin();
         long groupId = groups.getGroupNo(*iter);
         for (iter++; iter!= game[game_id].end(); iter++) {
